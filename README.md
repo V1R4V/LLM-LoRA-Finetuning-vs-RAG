@@ -66,3 +66,7 @@ You'll be asked for:
 Credentials are read interactively with `getpass`, and the Streamlit app reads them from environment variables (`ES_CLOUD_ID`, `ES_API_KEY`). Nothing is stored in the notebook.
 
 **Data:** the transcript corpus isn't redistributed. To reproduce the pipeline, point it at any folder of `.txt` transcripts; the loader expects files named like `12 en-English-SQL window functions.txt`.
+
+---
+
+*Date finished: April 26, 2026*
